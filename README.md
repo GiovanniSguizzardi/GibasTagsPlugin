@@ -1,8 +1,10 @@
 ![minecraft_tags](https://github.com/user-attachments/assets/52630bf7-b6c6-4a87-b0be-11079fce5066)
 
-# GibasTags
+<h1 align="center">GibasTags</h1>
 
-Um plugin leve e funcional para gerenciamento de **tags personalizadas** no Minecraft! Ideal para servidores que querem permitir que jogadores escolham suas tags ou que a staff defina manualmente.
+<p align="center">
+  Um plugin leve e funcional para gerenciamento de tags personalizadas no Minecraft! Ideal para servidores que querem permitir que jogadores escolham suas tags ou que a staff defina manualmente.
+</p>
 
 ---
 
