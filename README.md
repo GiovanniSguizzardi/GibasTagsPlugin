@@ -6,6 +6,12 @@
   Um plugin leve e funcional para gerenciamento de tags personalizadas no Minecraft! Ideal para servidores que querem permitir que jogadores escolham suas tags ou que a staff defina manualmente.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-1.21%2B-blue?style=for-the-badge&logo=minecraft" />
+  <img src="https://img.shields.io/badge/Java-21+-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/API-Paper%20%2F%20Spigot-yellow?style=for-the-badge" />
+</p>
+
 ---
 
 ## ✨ Funcionalidades
